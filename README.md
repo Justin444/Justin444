@@ -3,12 +3,13 @@
 ## 💬 About me
 - I am a recent CS graduate from University of Maryland, Global Campus
 - I have a passion for software and web developement
-- In my free time I create games with Unity
+- I enjoy creating games with Unity
 - Love hiking
 
 ## ⚡ Proficient Languages
 
 <p>
+  <img alt="Csharp" src="https://img.shields.io/badge/-c#-9cf" />
   <img alt="Csharp" src="https://img.shields.io/badge/-c#-9cf" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow" />
