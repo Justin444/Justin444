@@ -4,6 +4,7 @@
 - I am a recent CS graduate from University of Maryland, Global Campus
 - I have a passion for software and web developement
 - In my free time I create games with Unity
+- Love hiking
 
 ## Proficient Languages
 <p>
