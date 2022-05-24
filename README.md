@@ -9,7 +9,7 @@
 ## ⚡ Proficient Languages
 
 <p>
-  <img alt="Csharp" src="https://img.shields.io/badge/-c#-9cf" />
+  <img alt="Csharp" src="https://img.shields.io/badge/-C#-orange" />
   <img alt="Csharp" src="https://img.shields.io/badge/-c#-9cf" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow" />
