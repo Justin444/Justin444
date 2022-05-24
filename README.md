@@ -8,6 +8,7 @@
 
 ## Proficient Languages
 <p>
+  <br>
   <img alt="c#" src="https://img.shields.io/badge/-c#-blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-brown" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow" />
