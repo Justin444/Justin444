@@ -3,7 +3,7 @@
 ## 💬 About me
 - I am a recent CS graduate from University of Maryland, Global Campus
 - I have a passion for software and web developement
-- I enjoy creating games with Unity
+- I enjoy creating games with Unity (2 in development)
 - Love hiking
 
 ## ⚡ Proficient Languages
